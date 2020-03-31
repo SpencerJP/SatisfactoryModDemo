@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Content",
+    "\\Content\\ExampleMod",
+    "\\Content\\ExampleMod\\Models",
+    "\\Content\\ExampleMod\\Schematics",
+    "\\Library",
+    "\\Library\\Win64",
+    "\\Plugins",
+    "\\Source",
+    "\\Source\\SpencerMod"
+  ],
+  "SelectedNode": "\\Source\\SML",
+  "PreviewInSolutionExplorer": false
+}
