@@ -1,0 +1,9 @@
+{
+	"BuildId": "d0629816-0323-42f7-b2f4-d6efa2f695b0",
+	"Modules": 
+	{
+		"ExampleMod": "UE4-ExampleMod.dll",
+		"FactoryGame": "UE4-FactoryGame.dll",
+		"SML": "UE4-SML.dll"
+	}
+}
